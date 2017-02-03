@@ -1,0 +1,17 @@
+#+TITLE: Tira Ecol
+
+Esta es una recopilacion de la *tira ecol*, tomando el contendo del sitio
+http://www.tiraecol.net/modules/comic/.
+
+La recopilacion abarca de =tiraecol-1= a =tiraecol-400=, con la exepcion de los
+numeros 248 y 251, todas ellas descargadas mediante =wget tiraecol-= luego un
+numero incremental de =1= a =500= con la terminacion =.jpg=, =.png=, =.gif=. Al
+terminar se modifico la numeracion colocando uno o dos ceros al numero a manera
+que el explorador de ficheros muestre el orden apropiado.
+
+Se opto por colocar las tiras en una carpeta, en caso de que se quiera dar
+contexto a cada una o generar algun tipo de interfaz.
+
+El autor de tira ecol *Javier Malonda* a permitido esta compilacion, si deseas
+utilizar alguna tira debes colocar el nombre del autor y el enlace de
+procedencia. Si quires contactarlo su correo es [[mailto:jmalonda@gmail.com]]
