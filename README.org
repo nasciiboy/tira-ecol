@@ -1,7 +1,7 @@
 #+TITLE: Tira Ecol
 
 Esta es una recopilacion de la *tira ecol* publicada entre Diciempre de 2001
-([[http://historiadelosblogs.com/wiki/index.php/2001][Historia de los blogs]]) y el 18 de Noviembre de 2010 (tiraecol.net).
+([[http://historiadelosblogs.com/wiki/index.php/2001][Historia de los blogs]]) y el 18 de Octubre de 2010 (tiraecol.net).
 
 El contenido del repositorio toma el contenido de la direccion
 http://www.tiraecol.net/modules/comic/ y abarca de =tiraecol-1= a
