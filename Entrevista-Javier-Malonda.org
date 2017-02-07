@@ -1,0 +1,356 @@
+#+TITLE:  Entrevista Javier Malonda
+#+AUTHOR: Merce Molist
+#+DATE:   2004-01-29
+
+(Fuente de la entrevista http://ww2.grn.es/merce/2004/malonda.html)
+
+
+1.  *¿Quien eres tu? (informacion personal que quieras dar)*
+
+    Nací hace unos 28 años en Valencia, y desde entonces vengo haciendo cosas sin
+    parar. Por lo visto soy una persona inquieta. Demasiado. Fui al colegio hasta
+    que hubo que salir de allí y luego, por algún extraño motivo que aún estoy
+    ponderando, acabé estudiando ingeniería industrial. Cuando digo que lo mejor
+    que me sucedió allí fue escribir y dibujar en la revista de la escuela, te
+    puedes hacer una idea de lo que fue mi paso por aquella santa institución.
+
+    Ahora la idea es ir a trabajar a Alemania. Me gustan los idiomas y me
+    gustaría terminar hablando alemán de manera fluida, y claro, la única manera
+    de hacerlo es dejándose caer por el país teutón una buena temporada. Ahora
+    sólo falta encontrar algún incauto que me contrate.
+
+2.  *Un poco de historia: ¿Como y donde surgio la tira de Bilo y Nano?  ¿Que
+    relacion tiene con es.comp.os.linux?*
+
+    La idea no fue mía. Por aquellos entonces yo comía de vez en cuando con
+    Santiago Romero, un ilustre linuxero, ya que nuestras respectivas actividades
+    diarias no quedaban lejos. En una de aquellas opíparas comidas de menú se le
+    ocurrió que podría dibujar algo sobre el grupo de noticias es.comp.os.linux
+    en el que ambos participábamos activamente. La idea era reflejar las
+    anécdotas y vida cotidiana del grupo en clave de humor, sin demasiadas
+    ambiciones.
+
+    Hacía poco tiempo había dejado de dibujar en la revista de la escuela ya que
+    en rectorado habían decidido que aquello acabara, y tenía un par de
+    personajes que no había podido desarrollar y que me gustaban mucho, así que
+    pensé que vendrían al pego para el proyecto. Anteriormente venía dibujando un
+    personaje algo más trabajado, Ceferino Quemao
+    (http://bilo.homeip.net/ceferino/), un estudiante de industriales más quemado
+    que la moto de un hippy y que desvelaba las interioridades de la escuela.
+    Como la pereza es mi bandera y quería dibujar tiras, necesitaba unos
+    personajes hechos con cuatro rayas que tuvieran algo de gracia y que no
+    llevaran demasiado trabajo. Así nacieron Bilo y Nano.
+
+    La popularización de la tira coincidió con el inicio del proyecto EcolNet, un
+    proyecto en el que los asiduos de e.c.o.l. utilizaban sus líneas caseras para
+    dar un modesto servicio a la comunidad y aprender a administrar Linux
+    mientras se divertían. Ahí fue donde se hospedó la tira, siendo así como se
+    pasó a llamar la tira ecol, acrónimo de es.comp.os.linux. Bilo y Nano no
+    habrían llegado a ningún lugar sin toda la buena gente que forma parte de
+    EcolNet y de la que para mí es un privilegio formar parte.
+
+3.  *¿Tienes estadisticas de cuanta gente lee la tira?*
+
+    A lo largo de estos años el número de lectores no ha dejado de aumentar,
+    lenta pero constantemente. Empezamos con unas 500 visitas semanales y ahora
+    mismo hay más de 10.000 visitas por tira, algo que jamás hubiera llegado a
+    imaginar. La versión inglesa tiene aproximadamente diez veces menos visitas,
+    pero sigue creciendo y lógicamente tiene más potencial. Me gustaría saber
+    hasta dónde podría llegar.
+
+    *¿Cual o cuales han sido las mas leidas en estos tres años?*
+
+    Pues no sabría decirte ahora mismo; son tantas (ya casi 150). Como te digo,
+    el numero de visitas ha ido en aumento todo este tiempo, y como los gustos
+    son tan variados, cada uno tiene su tira preferida. Eso sí, creo que la más
+    popular es la de "Tengo un weblog", en la que Nano trata de ligar con
+    semejante recurso.
+
+    *¿Miento si digo que es la tira en castellano publicada en Internet mas leida?*
+
+    Nunca me había parado a pensarlo. Es posible que sí sea la más leída si
+    excluimos las versiones traducidas de Dilbert, Garfield y otros clásicos.
+    Atribuyo gran parte de su éxito a su "licencia", acorde al espíritu GPL, y
+    que le permite ser distribuida y "linkada" en todas partes y por cualquiera
+    sin ningún tipo de restricciones y sin siquiera pedir permiso. Pon algo en
+    manos de frikis y, si es bueno, no habrá quien lo pare :)
+
+    *¿Tiene competencia?*
+
+    Sé que existen algunas otras tiras similares.  En concreto conozco una que
+    empezó a dibujar Pedrete para www.speccy.org, una página de usuarios de
+    Spectrum, y cuya tira está inspirada precisamente en la tira ecol.
+
+    Sobre si tiene competencia, no creo que exista ninguna tira en español sobre
+    el Software Libre, lo que le da una cierta ventaja. Supongo que la
+    competencia directa es UserFriendly, pero es en inglés y algo enrevesada para
+    el que no domine la lengua de Shakespeare. Y en cualquier caso, se pueden
+    leer todas. No creo que nadie se queje porque le hagan reír demasiadas veces
+    al día. La competencia es buena.
+
+4.  *¿Cuantos weblogs la linkan?*
+
+    Entre los más importantes están Barrapunto y Libertonia. Además de en estos
+    sitios la puedes ver en infinidad de otras páginas, algunas grandes y otras
+    más modestas y de caracter más personal. Yo la he llegado a encontrar en
+    lugares que jamás hubiera imaginado y que ni siquiera tienen que ver con
+    ordenadores. El formato de la caja con la primera viñeta que inventaron en
+    Barrapunto invita mucho a colocarla por cualquier sitio y siempre da una nota
+    de color al portal.
+
+    *¿Solo en Espanya o tambien Latinoamerica?*
+
+    Una de las cosas que no deja de sorprenderme es el elevado número de
+    seguidores que tiene la tira en Latinoamérica. No debería sorprenderme tanto
+    ya que es la misma lengua y en la red todo queda más cerca que el estanco de
+    la esquina, pero no puedo evitar que mi ego engorde al pensar que gente de
+    tan lejos pueda disfrutar con Bilo y Nano.
+
+5.  *El libro: cuando se publico y cuantos ejemplares has vendido?*
+
+    Se publicó hace un par de años, concretamente con motivo de la Hispalinux de
+    2002, y entonces vendí cerca de un centenar. Luego he seguido vendiendo sin
+    parar por correo, especialmente en navidades, ya que es un buen regalo para
+    ese friki que todos tenemos en la puerta de al lado y que nos arregla el
+    ordenador de vez en cuando. En total calculo que habré vendido unos 400
+    libros, y espero liquidar los 100 que me quedan.  De aquí nada habrá
+    suficientes tiras para un segundo recopilatorio, y quién sabe si tal vez
+    pueda haber una segunda edición de "Bilo y Nano se lo montan".
+
+    *Creo que firmaste libros en un Hispalinux, es cierto?*
+
+    En realidad no hubo una clásica firma de libros formal, ya que no esperaba
+    que tuvieran tan buena acogida. Simplemente llegué a un acuerdo con los
+    chicos de Hispalinux para que vendieran el libro junto con los otros
+    artículos que ofertaban y luego, el que me vio por allí, me pidió que se lo
+    firmara. Fueron días de alto contenido egórico.
+
+    *¿Que relacion mantienes con la comunidad Linux, lectora natural de tus tiras?*
+
+    Pues digamos que soy militante de la propia comunidad. Procuro estar al tanto
+    de todo lo que pasa y hago todo lo que está en mi mano por echar una mano.
+    El problema es que me gusta entregarme a fondo en lo que hago y me veo
+    obligado a elegir mis actividades.  Además tengo tantos hobbies que tengo que
+    hacer un sitio a Linux entre ellos, pero me gusta estar al día y participar
+    en foros, especialmente en Libertonia (http://libertonia.escomposlinux.org).
+
+6.  *¿Sacas algun beneficio? ¿Economico?*
+
+    El beneficio más palpable es el egórico: hago esto porque me gusta y porque
+    creo que lo hago bien, lo que me hace sentir bien conmigo mismo. Algunos
+    construyen barquitos en botellas de cristal y otros pintan figuritas de
+    plomo; yo dibujo y tengo la suerte de que mi afición hace sonreír a la
+    gente. ¿Puede haber algo mejor? Sí, pueden pagarte por ello. Nunca esperé un
+    beneficio económico de la tira, aunque mentiría miserablemente si dijera que
+    no me gustaría dedicarme a esto. Alguna vez he soñado con la idea, pero de
+    momento lo veo bastante lejos, así que me va a tocar ejercer como ingeniero
+    industrial.
+
+    Por otra parte, creo que es una maravilla que muchos compren los libros de
+    Bilo y Nano. Supongo que mucha gente lo hace sencillamente como una manera de
+    agradecerme las risas semanales, ya que la tira se puede encontrar de manera
+    gratuita en la red. Supongo que también tiene su gracia tenerlas reunidas y
+    en papel, para poder echar un vistazo de vez en cuando.
+
+    El dinero de los libros no me va a retirar, claro, pero me ha permitido darme
+    algunos caprichos.  Venderlos por correo da bastante trabajo (contestar
+    emails, ensobrar, paseos a la estafeta) pero es gratificante ver que la gente
+    está interesada por lo que haces. Para que luego digan que no se puede hacer
+    dinero con el Software Libre. Para mí, que llevo con Linux desde el 97, esto
+    sigue siendo una sorpresa detrás de otra, y siempre buenas.
+
+7.  *¿Como se te ocurrio la idea? ¿Te inspiraste en alguna otra tira o en algun
+    autor o algo?*
+
+    Como te digo, los personajes ya existían.  Sólo faltaba darles una
+    personalidad a cada uno.  En su vida anterior
+    (http://bilo.homeip.net/ceferino/bn/ [comprobar]), Bilo era algo desgraciado
+    y Nano era un cabronazo que se las hacía pasar canutas. Básicamente se
+    mantuvo la idea, pero cada uno tuvo que mostrar sus nuevas aficiones. Decidí
+    convertir a Bilo en mi alter-ego linuxero: debianero y usuario devoto de vim
+    y icewm. Nano ofrecía el contrapunto windowsero.
+
+    Los dibujos están fuertemente inspirados en Dilbert, una de las mejores
+    tiras que he leído nunca.  Los personajes son gafotas y de trazos sencillos,
+    y el humor es comparable, salvo que Bilo y Nano dicen palabrotas cuando
+    toca, como en la vida real. Como nadie me paga por dibujarlos, mis
+    personajes son libres de decir lo que quieran y no tienen que ser
+    políticamente correctos ni nada por el estilo. Ser pobre te permite ser
+    libre :)
+
+    Después de Bilo y Nano vino el robotito, al que todo el mundo adora todavía
+    no sé por qué.  Supongo que despierta cierta lástima, siempre a merced de lo
+    que sus antagónicos amos le tengan a bien instalar.  Luego aparecieron el
+    amigo mandrakero, el usuario de windows avanzado, el mackero convencido... y
+    ahora la chica geek. Llega un punto en el que uno pierde el control de los
+    personajes y siente que se queda al margen de la fiesta.
+
+8.  *¿En que te inspiras para las aventuras de Bilo y Nano? ¿Tienes unos amigos
+    que son como ellos? :)*
+
+    Supongo que todo el mundo conoce a gente como Bilo y Nano. El que más y el
+    que menos tiene un amigo friki manitas con los ordenadores y también conoce a
+    otro que ni sabe ni tiene interés por aprender. La mayor parte de los
+    lectores se identifican con Bilo y hacen suyas sus experiencias.
+
+    Sobre la inspiración, es difícil de decir. En la mayoría de las ocasiones
+    cojo alguna noticia de actualidad linuxera y le doy vueltas hasta que sale
+    por algún sitio. Como la regularidad es semanal, suele haber tiempo para dar
+    con alguna tontería con gancho.
+
+9.  *¿Cual crees que es el secreto de su exito?  ¿Tiene algo que ver la fuerza
+    de la comunidad Linux?*
+
+    No tengo ni idea de cuál es el secreto de su éxito. De hecho soy bastante
+    pesimista y duro conmigo mismo, y tengo tiendo a pensar que todo lo que
+    empiezo está abocado al fracaso. Así que te puedo asegurar que era el que
+    menos apostaba por Bilo y Nano en sus inicios. Supongo que el éxito se basa
+    en la proximidad de los personajes, en la manera en que hablan, en la forma
+    en que abordan las situaciones... Bilo y Nano podrían ser los vecinos del
+    tercero. Sí, esos que arman bronca por las noches.
+
+    Por otra parte, "la comunidad linux" es gente normal: construimos vuestros
+    coches, recogemos vuestra basura, operamos a vuestros perros y gatos,
+    enyesamos paredes y hacemos regatas. Lo bueno de ser "linuxero" (o pro-Soft
+    Libre) es que está al alcance de cualquiera. La fuerza de la comunidad reside
+    en que somos muchos y que cada uno sólo tiene que dar un poquito. El
+    resultado global es muy ruidoso y aparente. Y mucho ojo con ponerse por
+    medio :)
+
+10. *¿Desde cuando se traduce al ingles? ¿Y al catalan?*
+
+    No puedo recordar cuándo empecé a traducirlas también al inglés. Creo que
+    fue alrededor de la tira 20. Cuando comenzó a popularizarse, se me ocurrió
+    que quizá tuvieran también un hueco en el panorama no-hispanoparlante. Cogi
+    todas las tiras anteriores e hice una versión en inglés de cada una. A
+    partir de entonces siempre las hago simultáneamente, inglés y español.
+
+    Los chicos de PuntBarra, la versión catalana de Barrapunto, se ofrecieron a
+    traducirlas al catalán.  De esto hará cerca de un año, quizá más. También se
+    empezó una traducción al gallego, pero no se ha mantenido al día y creo que
+    no se pasó de la docena de tiras. La verdad es que no me extraña, porque es
+    un trabajo bastante pesado e ingrato. Yo no lo haría ;)
+
+    Ahora mismo ando en contacto con unos chicos franceses interesados en
+    incluir la tira en una publicación informática gabacha, así que quién sabe
+    qué será lo siguiente. Todavía queda un largo camino para estar traducidos
+    en la mitad de idiomas que Tintín :)
+
+11. *Tres años, cada semana, es mucho tiempo.  ¿De donde sacas las fuerzas?
+    ¿Como has aguantado tanto tiempo?*
+
+    Sí que es mucho tiempo, parece que fue ayer.  Como digo, el hecho de que la
+    tira sea semanal hace las cosas mucho más fáciles. Sé que a muchos les sabe
+    a poco, pero me permite mantener un buen nivel de calidad sin demasiado
+    esfuerzo. Incluso así hay veces que voy muy ajetreado y termino dibujando la
+    tira corriendo a última hora.
+
+    Sobre cómo he aguantado todo este tiempo, eso es fácil de responder: si no
+    estuviera haciendo la tira ecol andaría dibujando monigotes por las paredes.
+    Cuando uno lleva una afición en la sangre, ésta termina saliendo por algún
+    sitio. Supongo que es una cuestión de higiene. Si además sabes que haces
+    reír a la gente y que lo que haces gusta, entonces te sientes comprometido
+    con todas esas personas que visitan la tira todas las semanas. Para mí se ha
+    convertido en una obligación muy gratificante.
+
+12. *¿Que tira/s te gustan mas a ti?*
+
+    Es difícil de decir, después de tantas. Me gustan las de humor negro, las
+    crudas y las disparatadas. Una de mis preferidas es la del entierro en la
+    que el cura resulta ser un friki de cuidado y termina oficiando una misa de
+    lo más rocambolesca.  También me parece muy buena la de la parca que se
+    presenta PDA y que resulta que se ha equivocado de domicilio. Lo que me
+    resulta curioso es que no siempre las que más éxito tienen son las que a mí
+    me parecen mejores. Los gustos son terriblemente dispares.
+
+13. *¿Alguna te ha traido problemas? ¿O sorpresas agradables? ¿Alguna anecdota
+    que merezca contarse, en estos tres años?*
+
+    Bueno, la más sonada sin duda fue una en la que salía Stallman borracho con
+    motivo de una visita a España. Por lo visto el buen hombre no bebe ni gota,
+    y mucha gente se tomó a mal aquella tira, entre ellos el propio Stallman,
+    que no le veía la gracia por ningún sitio. Me sentí tan mal que me vi
+    moralmente obligado a dibujar una segunda tira que suavizaba la cosa.
+    Mucha gente me dijo que no tenía que arrepentirme por nada, que era humor y
+    que la guasa es así, pero a mí me gusta llevarme bien con todo el mundo.
+
+    Entre las sorpresas, la primera fue aparecer un día en Barrapunto. Me hizo
+    mucha ilusión. También me encantó una crítica que se hizo de la tira en el
+    extinto Linux Weekly News, y fue agradable que alguien pensara en su
+    momento en incluir la tira ecol en la prestigiosa Linux Gazette.
+
+14. *¿Los lectores te escriben, proponiendote temas, se implican, hay
+    "feedback"?*
+
+    Hace varios meses se habilitó en las dependencias de EcolNet un foro para
+    la tira, debido a la creciente petición popular
+    (http://tiralog.escomposlinux.org). No pensaba que nadie pudiera estar
+    interesado en charlar sobre Bilo y Nano, pero una vez más estaba
+    equivocado. Allí la gente se queja de que no entiende algunas tiras, otros
+    se las explican, los hay que proponen cosas... Un poco de todo.
+
+    De vez en cuando recibo algún email de alguien proponiéndome algún tema o
+    haciéndome el chiste entero. La mayoría de las veces la idea no acaba de
+    encajar con el estilo o no la veo factible en tres viñetas, pero hay
+    ocasiones en que me proponen cosas realmente buenas o simplemente me ayudan
+    a encontrar la chispa. Esta misma semana he recibido un par de sugerencias
+    que han ido directamente al "papel". La verdad es que se agradece mucho y a
+    veces te da pena no poder plasmar todo lo que la gente te propone.
+
+15. *¿Y tu, sigues la tira comica de alguien?*
+
+    Sí, claro, leo muchas, unas todos los días y otras cuando me
+    acuerdo. Dilbert, Garfield, The Peanuts, SinFest... Uno de mis últimos
+    descubrimientos ha sido Sherman's Lagoon, que tiene como protagonistas a
+    unos tiburones muy ingeniosos con amigos muy divertidos. Por algún motivo
+    les he cogido cariño.
+
+16. *¿Como dibujas a Bilo y Nano? ¿Usas el ordenador o lo haces a mano?  ¿Como
+    es el proceso de creacion de una tira?*
+
+    Después de haber dibujado todo el tiempo en papel, la pereza me hacía desear
+    una tableta gráfica con todas mis fuerzas. Sin embargo, no sabía si sería
+    capaz de obtener una calidad semejante con un lápiz que no pinta en la mano,
+    así que tardé tiempo en decidirme. Dibujar en papel es mucho más preciso,
+    pero también mucho más laborioso: se dibujan los marcos, se dibujan los
+    personajes, luego se entinta todo, se espera a que se seque y se borra el
+    lápiz con mucho cuidado intentando no hacer puré la hoja.  Posteriormente se
+    escanea, se redimensiona y voilà, pero es mucha faena para alguien vago por
+    naturaleza.
+
+    Al final fueron las circunstancias las que decidieron por mí. Resulta que me
+    marché a Nantes medio año a hacer el proyecto de fin de carrera, y a alguien
+    en escomposlinux se le ocurrió hacer una colecta para comprarme una tableta
+    gráfica y que pudiera seguir dibujando las tiras desde tierras galas. Más de
+    30 personas colaboraron y se juntó dinero para varias tabletas, así que al
+    final se optó por una Wacom de unos 100 euros (cuando todavía no existían
+    los euros) y el resto del dinero revertió en EcolNet. Al principio fue
+    difícil hacerse con el control de la tableta, incluso hay una tira
+    ironizando sobre el tema, pero con un poco de práctica todo es posible.
+
+    Una vez con la idea y toda la tira desarrollada en la cabeza viñeta a
+    viñeta, no queda más que trasladarlo a la pantalla. En realidad todo el
+    trabajo se hace antes de coger el lápiz.
+
+17. *¿Desde cuando tienes el weblog?*
+
+    La historia de El Sentido de la Vida es similar a la de la tira. Yo estaba
+    acostumbrado a escribir de manera regular en la revista de la escuela, así
+    que cuando todo aquello acabó me sentí literariamente vacío. Poco después
+    monté el servidor y se me ocurrió que un weblog podía ser una buena manera
+    de dar rienda suelta a mis necesidades narrativas, así que me puse manos a
+    la obra.
+
+    Como siempre, no pensé que pudiera interesar a nadie, así que al principio
+    ni siquiera activé la posibilidad de que la gente pusiera comentarios. Tras
+    un par de quejas, decidí activar el sistema de comentarios y me sorpendí de
+    la cantidad de gente que quería escribir. A día de hoy El Sentido de la Vida
+    recibe más de 500 visitas diarias, y la calidad de los comentarios ha
+    llegado a tal punto que a veces me pongo a escribir deseando leer lo que la
+    gente va a contar después. Creo que se ha conseguido crear entre todos un
+    buen punto de encuentro para charlar sobre la vida cotidiana y todas esas
+    pequeñas y grandes cosas que la hacen tan especial. La gente tiene mucho que
+    contar, y en ocasiones no lo sabe.
+
+    Nada más. Un saludo a toda la gente de escomposlinux.org (EcolNet), sin la
+    cual nada de esto hubiera sido posible.

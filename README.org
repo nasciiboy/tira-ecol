@@ -1,17 +1,23 @@
 #+TITLE: Tira Ecol
 
-Esta es una recopilacion de la *tira ecol*, tomando el contendo del sitio
-http://www.tiraecol.net/modules/comic/.
+Esta es una recopilacion de la *tira ecol* publicada entre Diciempre de 2001
+([[http://historiadelosblogs.com/wiki/index.php/2001][Historia de los blogs]]) y el 18 de Noviembre de 2010 (tiraecol.net).
 
-La recopilacion abarca de =tiraecol-1= a =tiraecol-400=, con la exepcion de los
-numeros 248 y 251, todas ellas descargadas mediante =wget tiraecol-= luego un
-numero incremental de =1= a =500= con la terminacion =.jpg=, =.png=, =.gif=. Al
-terminar se modifico la numeracion colocando uno o dos ceros al numero a manera
-que el explorador de ficheros muestre el orden apropiado.
+El contenido del repositorio toma el contenido de la direccion
+http://www.tiraecol.net/modules/comic/ y abarca de =tiraecol-1= a
+=tiraecol-400=, con la exepcion de los numeros 248 y 251.
+
+La descarga se realizo mediante =wget tiraecol-= luego un numero incremental de
+=1= a =500= con la terminacion =.jpg=, =.png=, =.gif=. Al terminar se modifico
+la numeracion colocando uno o dos ceros al numero a manera que el explorador de
+ficheros muestre el orden apropiado.
 
 Se opto por colocar las tiras en una carpeta, en caso de que se quiera dar
 contexto a cada una o generar algun tipo de interfaz.
 
-El autor de tira ecol *Javier Malonda* a permitido esta compilacion, si deseas
+El autor de tira ecol *Javier Malonda* ha permitido esta compilacion, si deseas
 utilizar alguna tira debes colocar el nombre del autor y el enlace de
 procedencia. Si quires contactarlo su correo es [[mailto:jmalonda@gmail.com]]
+
+[[about.org][Aqui]] puedes entontrar una entrevista realizada a Javier Malonda por Merce Molist
+con fecha del 29 de Enero del año 2004 ([[http://ww2.grn.es/merce/2004/malonda.html][enlace original]])
