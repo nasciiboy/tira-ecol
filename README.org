@@ -19,5 +19,5 @@ El autor de tira ecol *Javier Malonda* ha permitido esta compilacion, si deseas
 utilizar alguna tira debes colocar el nombre del autor y el enlace de
 procedencia. Si quires contactarlo su correo es [[mailto:jmalonda@gmail.com]]
 
-[[Entrevista-Javier-Malonda.org][Aqui]] puedes entontrar una entrevista realizada a Javier Malonda por Merce Molist
+[[Entrevista-Javier-Malonda.org][Aqui]] puedes encontrar una entrevista realizada a Javier Malonda por Merce Molist
 con fecha del 29 de Enero del año 2004 ([[http://ww2.grn.es/merce/2004/malonda.html][enlace original]])
