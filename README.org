@@ -5,7 +5,7 @@ Esta es una recopilación de la *Tira Ecol* publicada entre diciembre de 2001
 
 El contenido del repositorio toma el contenido de la dirección
 http://www.tiraecol.net/modules/comic/ y abarca de =tiraecol-1= a
-=tiraecol-400=, con la excepción de los números 248 y 251.
+=tiraecol-400=.
 
 La descarga se realizó mediante =wget tiraecol-= luego un número incremental de
 =1= a =500= con la terminación =.jpg=, =.png=, =.gif=. Al terminar se modificó
