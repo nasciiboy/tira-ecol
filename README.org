@@ -20,7 +20,7 @@ utilizar alguna tira debes colocar el nombre del autor y el enlace de
 procedencia. Si quieres contactarlo su correo es [[mailto:jmalonda@gmail.com]]
 
 [[Entrevista-Javier-Malonda.org][Aquí]] puedes encontrar una entrevista realizada a Javier Malonda por Merce Molist
-con fecha del 29 de enero del año 2004 ([[http://ww2.grn.es/merce/2004/malonda.html][enlace original]])
+con fecha del 29 de enero del año 2004 ([[http://ww2.grn.es/merce/2004/malonda.html][enlace original]]).
 
 #+BEGIN_HTML
   <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
